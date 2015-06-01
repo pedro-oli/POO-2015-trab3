@@ -4,3 +4,5 @@ Referring to "trabalho 3 de POO - 2015, 1º semestre", an object-oriented progra
 
 to run:
 "java appRun"
+
+note: after choosing an option, you can't go back to menu before finishing it.
