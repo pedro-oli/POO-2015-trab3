@@ -34,7 +34,7 @@ public class Library {
         while (!exit) {
             
             // clearing console
-            this.clearConsole();
+            clearConsole();
             
             // prints date
             SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
@@ -236,7 +236,7 @@ public class Library {
             
             // validates userType
             if ( (c != 's') && (c != 't') && (c != 'o') ) {
-                this.clearConsole();
+                clearConsole();
                 System.out.println("Invalid type! Try again.\n");
             }
             else {
