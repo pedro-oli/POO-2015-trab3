@@ -74,7 +74,7 @@ public class Library {
                         break;
 
                     case 8:
-                        this.changeDate();
+                        changeDate();
                         break;
 
                     case 9:
